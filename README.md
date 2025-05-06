@@ -14,3 +14,7 @@ sudo unzip terraform_1.11.4_linux_amd64.zip -d /usr/local/bin/
 # バージョン確認
 terraform -version  # Terraform v1.11.4
 ```
+
+---------------------------------------------
+
+記事：[**Terraform で DockerイメージをLambdaへデプロイ**](https://zenn.dev/fuuji/articles/547388be4ca9ce)
